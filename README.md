@@ -190,4 +190,3 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 &nbsp;·&nbsp;
 [LinkedIn](www.linkedin.com/in/abraão-dev)
 
-)
