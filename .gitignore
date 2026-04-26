@@ -1,0 +1,15 @@
+# Dados (planilhas Excel)
+*.xlsx
+*.xls
+*.csv
+planilhas_vendas/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+.DS_Store
+relatorio_*.xlsx
+.ipynb_checkpoints/
+Introdução ao Pandas.ipynb
