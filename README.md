@@ -185,8 +185,7 @@ Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) par
 ## 👨‍💻 Autor
 
 **Abraão Rubens**
-&nbsp;·&nbsp;
-[GitHub @TuusKBR](https://github.com/TuusKBR)
-&nbsp;·&nbsp;
-[LinkedIn](www.linkedin.com/in/abraão-dev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@TuusKBR-181717?style=flat&logo=github)](https://github.com/TuusKBR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abraão_Dev-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abraão-dev)
 
