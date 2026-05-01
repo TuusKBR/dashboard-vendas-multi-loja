@@ -1,4 +1,3 @@
-# Dados (planilhas Excel)
 *.xlsx
 *.xls
 *.csv
@@ -13,3 +12,4 @@ __pycache__/
 relatorio_*.xlsx
 .ipynb_checkpoints/
 Introdução ao Pandas.ipynb
+.Venv/
