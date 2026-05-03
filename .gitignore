@@ -1,7 +1,7 @@
 *.xlsx
 *.xls
 *.csv
-planilhas_vendas/
+dados/
 __pycache__/
 *.pyc
 *.pyo
@@ -11,5 +11,4 @@ __pycache__/
 .DS_Store
 relatorio_*.xlsx
 .ipynb_checkpoints/
-Introdução ao Pandas.ipynb
 .Venv/
