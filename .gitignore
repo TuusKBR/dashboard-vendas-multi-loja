@@ -1,7 +1,5 @@
-*.xlsx
 *.xls
 *.csv
-dados/
 __pycache__/
 *.pyc
 *.pyo
